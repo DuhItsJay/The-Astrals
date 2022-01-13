@@ -1,0 +1,145 @@
+{	"d05d927e-f686-323e-9c21-a99d0e0cc2ca": 
+		{
+		"texture": "ammonite"
+		},
+	"f98c37c6-7610-3609-ba5b-86b25910fe1e": 
+		{
+		"texture": "armadillo"
+		},
+	"795d1347-6d0a-3ed7-a340-383b202e4d86": 
+		{
+		"texture": "dark_goggles"
+		},
+	"0d4846bb-7eb0-3b66-a04f-c50a6ee167d1": 
+		{
+		"texture": "divan_helmet"
+		},
+	"3e95761b-f469-3943-a4f1-318bd0a1fd40": 
+		{
+		"texture": "dungeon_goldor_helmet"
+		},
+	"8142d49d-90e8-3e1c-8581-c98882a97ea5": 
+		{
+		"texture": "dungeon_maxor_helmet"
+		},
+	"ae123a50-b032-3fbd-8450-9b41cd7c64b9": 
+		{
+		"texture": "dungeon_necron_helmet"
+		},
+	"82fb0f51-2e6a-3319-9904-1d6ae5adc026": 
+		{
+		"texture": "dungeon_storm_helmet"
+		},
+	"bc554a7a-507a-3ee7-809c-1820f86e1ceb": 
+		{
+		"texture": "ember_helmet"
+		},
+	"3f9632a1-0ce2-311a-97e7-b144dfcb74f3": 
+		{
+		"texture": "ender_dragon"
+		},
+	"525b1ad8-fb3f-3a62-bd80-da5428a7ac2e": 
+		{
+		"texture": "final_destination_helmet"
+		},
+	"0e455321-f4a7-338a-96a4-d0df166e6e48": 
+		{
+		"texture": "golden_dragon"
+		},
+	"7b5eba12-eea5-3b0f-968b-cf8578bee45b": 
+		{
+		"texture": "goldor_helmet"
+		},
+	"ebe7fc8c-125a-3c6e-8280-658c581626d6": 
+		{
+		"texture": "happy_mask"
+		},
+	"1a136205-4ff3-3028-bb5b-c2ef8a047399": 
+		{
+		"texture": "helmet_of_the_rising_sun"
+		},
+	"08fa7d94-8a0e-36ab-8275-8ddbfda36936": 
+		{
+		"texture": "krampus_helmet"
+		},
+	"b14a2c09-fd75-312e-a7ba-3ab81e4238fa": 
+		{
+		"model": "lantern"
+		},
+	"27508566-a773-3516-8903-9e405064893e": 
+		{
+		"texture": "mastiff_crown"
+		},
+	"ee05abe4-347b-3ea5-8248-fae93392140e": 
+		{
+		"texture": "maxor_helmet"
+		},
+	"63fcdb3b-2514-3e8b-b259-3acfd4aad50a": 
+		{
+		"texture": "mender_crown"
+		},
+	"57893e0f-a314-32fc-ab99-4c4e6cb20f07": 
+		{
+		"texture": "mender_fedora"
+		},
+	"4a3fc537-0fd3-3e3a-ab1b-cc5b7ed581db": 
+		{
+		"texture": "mender_helmet"
+		},
+	"39fb84b5-72d3-3221-b373-aa315e956e83": 
+		{
+		"texture": "mithril_golem"
+		},
+	"7e24c542-e7c7-3fee-94b5-415eeaf3e169": 
+		{
+		"texture": "necromancer_lord_helmet"
+		},
+	"16b91b55-02b7-3315-bd9a-7da8467e4a96": 
+		{
+		"texture": "necron_helmet"
+		},
+	"177c6862-dc55-37c3-acca-43e5d4b7d101": 
+		{
+		"texture": "pig_mask"
+		},
+	"f4d7f301-cd28-353c-8027-8c617257b861":
+	        {
+		"texture": "reaper_mask"
+		},
+	"cc553c34-157d-3183-bdf2-fee34b8b68e4":
+	        {
+		"texture": "reinforced_skin"
+		},
+	"730a6086-ad87-38fa-8fa4-0b76a060f4fc":
+	        {
+		"texture": "scatha"
+		},
+	"8c29f21d-0af3-324e-982b-dca5c7659bc4":
+	        {
+		"texture": "shadow_assassin_helmet"
+		},
+	"e23b008e-298b-3219-9670-a36b72cf76de": 
+		{
+		"texture": "shadow_goggles"
+		},
+	"bafabf7d-16e6-32fb-9720-812419bacc73":
+		{
+		"texture": "shark_scale_helmet"
+		},
+	"a3552cdc-39ab-3f9f-9373-61c035f61b7d": 
+		{
+		"texture": "storm_helmet"
+		},
+	"4f6eef4a-c9f2-3f84-832b-a94b89a3e167": 
+		{
+		"texture": "warden_helmet"
+		},
+	"a4baabfd-565a-33f1-a52b-b120cb7c749b": 
+		{
+		"texture": "wither_goggles"
+		},
+	"cf225c71-a676-30a0-90da-75907b9a99d0": 
+		{
+		"texture": "wither_helmet"
+		}
+}
